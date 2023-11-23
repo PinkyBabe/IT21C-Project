@@ -1,7 +1,7 @@
-public class Rey {
+public class Name {
     String name;
 
-    Rey(String name){
+    Name(String name){
         this.name = name;
     }
 }
