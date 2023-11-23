@@ -4,11 +4,11 @@ public class Run extends Name{
         super(name);
     }
 
-    void run1(){
+    void action1(){
         System.out.println(name+ " is running");
     }
 
-    void run2(){
+    void action2(){
         System.out.println(name+ " is running backwards");
     }
 }

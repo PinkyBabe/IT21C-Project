@@ -5,9 +5,9 @@ class Polymorphism{
         Sing name2 = new Sing("Annalyn");
         Run name3 = new Run("Joash");
 
-        name1.Step1();
-        name2.Song2();
-        name3.run2();
+        name1.action1();
+        name2.action2();
+        name3.action2();
 
         
 

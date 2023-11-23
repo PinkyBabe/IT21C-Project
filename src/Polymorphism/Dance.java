@@ -4,11 +4,11 @@ class Dance extends Name {
         super(name);
     }
 
-    void Step1(){
+    void action1(){
         System.out.println(name+" did a back flip");
     }
 
-    void Step2(){
+    void action2(){
         System.out.println(name+" did a Tiktok");
     }
 
