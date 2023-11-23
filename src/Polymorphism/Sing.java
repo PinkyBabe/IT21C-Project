@@ -1,4 +1,4 @@
-public class Sing extends Rey{
+public class Sing extends Name{
     Sing(String name){
         super(name);
     }

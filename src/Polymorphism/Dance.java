@@ -1,4 +1,4 @@
-class Dance extends Rey {
+class Dance extends Name {
     
     Dance(String name){
         super(name);

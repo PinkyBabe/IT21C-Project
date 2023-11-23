@@ -1,4 +1,4 @@
-public class Run extends Rey{
+public class Run extends Name{
     
     Run(String name){
         super(name);
