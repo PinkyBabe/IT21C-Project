@@ -5,10 +5,10 @@ public class Run extends Name{
     }
 
     void run1(){
-        System.out.println(name+ "is running");
+        System.out.println(name+ " is running");
     }
 
     void run2(){
-        System.out.println(name+ "is running backwards");
+        System.out.println(name+ " is running backwards");
     }
 }
